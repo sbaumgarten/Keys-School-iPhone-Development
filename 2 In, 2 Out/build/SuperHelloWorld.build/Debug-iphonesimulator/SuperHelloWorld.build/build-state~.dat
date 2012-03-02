@@ -1,0 +1,239 @@
+TSuperHelloWorld
+v7
+r0
+t350266978.747237
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/Info.plist" SuperHelloWorld-Info.plist
+cCompileXIB "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/MainWindow.xib"
+cCompileXIB "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorldViewController.xib"
+cProcessPCH /var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch.gch SuperHelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/main.o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldAppDelegate.o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldViewController.o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.h
+c000000004F306BAC0000000000000210
+t1328573356
+s528
+i<UIKit/UIKit.h>
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m
+c000000004F306BAC0000000000000AD3
+t1328573356
+s2771
+i"SuperHelloWorldAppDelegate.h"
+i"SuperHelloWorldViewController.h"
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h
+c000000004F306ED8000000000000014C
+t1328574168
+s332
+i<UIKit/UIKit.h>
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m
+c000000004F306ED80000000000000638
+t1328574168
+s1592
+i"SuperHelloWorldViewController.h"
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/MainWindow.xib
+c000000004F306BAC0000000000004E89
+t1328573356
+s20105
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorldViewController.xib
+c000000004F306BAC0000000000001A65
+t1328573356
+s6757
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorld_Prefix.pch
+c000000004F306BAC00000000000000C7
+t1328573356
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app
+t2
+s0
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app.dSYM
+t2
+s0
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/Info.plist
+t1328574169
+s629
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/MainWindow.nib
+t1328574174
+s1697
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/PkgInfo
+t1328574169
+s8
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/SuperHelloWorld
+t2
+s0
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/SuperHelloWorldViewController.nib
+t1328574174
+s1269
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorld.LinkFileList
+c000000004F306ED90000000000000203
+t1328574169
+s515
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldAppDelegate.o
+t2
+s0
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldViewController.o
+t2
+s0
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/main.o
+t1328574178
+s6348
+
+N/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m
+c000000004F306BAC0000000000000172
+t1328573356
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch.gch
+t1328574178
+s15814064
+
+NSuperHelloWorld-Info.plist
+c000000004F306BAC000000000000038D
+t1328573356
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350266969#350266969#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldAppDelegate.o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350266978.418992
+e350266978.689615
+r0
+xCompileC
+xbuild/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldAppDelegate.o
+x/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m:10:
+o/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h:14: error: expected ';' before '}' token
+lSLF07#2@101"Compile /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m350266978#350266978#0(258"In file included from /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m:10:/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h:14: error: expected ';' before '}' token1(4@29"Expected ';' before '}' token350266978#120#138#2(7@115"In file included from /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m350266978#18446744073709551615#0#0(6@93"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m350266156#10#0#10#0#0"0(13@129"Expected ';' before '}' token in /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h350266978#18446744073709551615#0#0(6@96"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h350266968#14#0#14#0#0"0(6@96"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h350266968#14#0#14#0#19"expected * before *0(0#0#93"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m8616241888#2347"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-generated-files.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-own-target-headers.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-all-target-headers.hmap" -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-project-headers.hmap" "-F/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/include" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources/i386" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources" -include /var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch -c "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldAppDelegate.m" -o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldAppDelegate.o"1#
+
+CCompileC build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldViewController.o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350266978.689711
+e350266978.747156
+r0
+xCompileC
+xbuild/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldViewController.o
+x/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m:9:
+o/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h:14: error: expected ';' before '}' token
+lSLF07#2@104"Compile /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m350266978#350266978#0(260"In file included from /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m:9:/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h:14: error: expected ';' before '}' token1(4@29"Expected ';' before '}' token350266978#122#138#2(7@118"In file included from /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m350266978#18446744073709551615#0#0(6@96"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m350266968#9#0#9#0#0"0(13@129"Expected ';' before '}' token in /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h350266978#18446744073709551615#0#0(6@96"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h350266968#14#0#14#0#0"0(6@96"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.h350266968#14#0#14#0#19"expected * before *0(0#0#96"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m7810728784909333504#2353"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-generated-files.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-own-target-headers.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-all-target-headers.hmap" -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-project-headers.hmap" "-F/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/include" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources/i386" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources" -include /var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch -c "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/Classes/SuperHelloWorldViewController.m" -o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/SuperHelloWorldViewController.o"1#
+
+CCompileC build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/main.o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s350266978.389895
+e350266978.693620
+r1
+xCompileC
+xbuild/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/main.o
+x/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m350266978#350266978#0(0"0(0#0#63"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m8615054176#2295"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-generated-files.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-own-target-headers.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-all-target-headers.hmap" -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-project-headers.hmap" "-F/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/include" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources/i386" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources" -include /var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch -c "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/main.m" -o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/MainWindow.xib"
+s350266969.360796
+e350266974.218734
+r1
+xCompileXIB
+x/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib350266969#350266974#0(0"0(0#0#71"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/MainWindow.xib8616105632#638"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/MainWindow.nib" "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorldViewController.xib"
+s350266969.364080
+e350266974.231299
+r1
+xCompileXIB
+x/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorldViewController.xib
+lSLF07#2@44"CompileXIB SuperHelloWorldViewController.xib350266969#350266974#0(0"0(0#0#90"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorldViewController.xib8614406752#676"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/SuperHelloWorldViewController.nib" "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorldViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app.dSYM" "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/SuperHelloWorld"
+r0
+
+CLd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/SuperHelloWorld" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/Info.plist" SuperHelloWorld-Info.plist
+s350266969.158003
+e350266969.360682
+r1
+xProcessInfoPlistFile
+x/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/Info.plist
+xSuperHelloWorld-Info.plist
+lSLF07#2@34"Process SuperHelloWorld-Info.plist350266969#350266969#0(0"0(0#0#83"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorld-Info.plist7810728784909333504#563"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SuperHelloWorld-Info.plist -genpkginfo "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app/Info.plist"0#
+
+CProcessPCH /var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch.gch SuperHelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350266974.231467
+e350266978.389687
+r1
+xProcessPCH
+x/var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch.gch
+xSuperHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SuperHelloWorld_Prefix.pch350266974#350266978#0(0"0(0#0#83"/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorld_Prefix.pch8616504832#2159"    cd "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-generated-files.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-own-target-headers.hmap" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-all-target-headers.hmap" -iquote "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/SuperHelloWorld-project-headers.hmap" "-F/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/include" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources/i386" "-I/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/SuperHelloWorld.build/Debug-iphonesimulator/SuperHelloWorld.build/DerivedSources" -c "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/SuperHelloWorld_Prefix.pch" -o /var/folders/zR/zRtag-R0EsulI2WFu16lKE++--k/-Caches-/com.apple.Xcode.1052/SharedPrecompiledHeaders/SuperHelloWorld_Prefix-bytpjqocrdbpkagqjowepgsprxvi/SuperHelloWorld_Prefix.pch.gch0#
+
+CTouch "/Users/ryanmatyjasik/Desktop/iPhone Club/SuperHelloWorld/build/Debug-iphonesimulator/SuperHelloWorld.app"
+r0
+
